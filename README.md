@@ -87,13 +87,24 @@ The Power BI dashboard presents the key findings through interactive KPI cards, 
 
 #### Dashboard Preview
 
-*Dashboard screenshots will be added here.*
+
+**Excel Dashboard**
+
+![Excel Dashboard](screenshots/excel-dashboard.png)
+
+**Power BI Dashboard**
+
+![Power BI Dashboard](screenshots/powerbi-dashboard.png)
+
 
 ## 📂 Project Files
 
 - `Amazon_Sales_Analysis.xlsx` — Excel analysis, PivotTables, PivotCharts, and dashboard
 - `Amazon_Sales_Performance_Analysis.pbix` — Power BI dashboard and DAX measures
 - `screenshots/` — Dashboard preview images
+- - [Excel Analysis Workbook](Amazon_Sales_performance_analysis.xlsx) — Excel analysis, PivotTables, PivotCharts, and dashboard
+- [Power BI Dashboard](Amazon_sales_performance_analysis.pbix) — Power BI dashboard and DAX measures
+- [Dashboard Screenshots](screenshots/) — Excel and Power BI dashboard previews
 
 - ## 💡 Business Recommendations
 
